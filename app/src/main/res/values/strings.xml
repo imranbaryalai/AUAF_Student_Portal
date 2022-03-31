@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AUAF Student Portal</string>
+
+    <string name="follow">Follow us on Socials</string>
+    <string name="welccome">Welcome to AUAF Student Portal</string>
+    <string name="loginBtnText">Login</string>
+    <string name="title_activity_image_gallery">ImageGalleryActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="follow_twitter">Follow us on Twitter</string>
+    <string name="follow_instagram">Follow us on Instagram</string>
+    <string name="video_gallery">Video Gallery</string>
+    <string name="academic_calendar">Academic Calendar</string>
+    <string name="staffClassModel">Staff</string>
+    <string name="degree_plans">Degree Plans</string>
+    <string name="academic_catalog">Academic Catalog</string>
+    <string name="find_on_socials">Find Us on Socials</string>
+    <string name="logout">Logout</string>
+
+
+</resources>

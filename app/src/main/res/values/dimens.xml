@@ -1,0 +1,10 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <!--genaral spacing-->
+    <dimen name="spacing_small">7dp</dimen>
+    <dimen name="spacing_large">13dp</dimen>
+    <dimen name="spacing_smlarge">15dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+
+</resources>
